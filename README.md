@@ -68,6 +68,15 @@ Best Model - Random Forest Classifier
 The study demonstrates that incorporating financial news sentiment provides additional predictive information beyond traditional financial statement variables
 
 
+License & Credits
+Author: Jean Shermin B. Geronimo
+Institution: Asian Institute of Management (AIM)
 
+This project is submitted in partial fulfillment of the requirements for the
+Postgraduate Diploma in Artificial Intelligence and Machine Learning.
+
+Tools and Acknowledgements
+Google Colab was used as the execution environment for developing and running the Jupyter notebook.
+ChatGPT Plus and MS Copilot was used as a supportive tool for drafting, structuring, and refining narrative components of the project.
 
 
